@@ -51,10 +51,5 @@ Blockchain valid? True
 - Change the `difficulty` parameter in `Blockchain()` to adjust mining difficulty.
 - Experiment with tampering with block data to observe integrity detection.
 
-## Contribution
-Feel free to fork the repository and submit pull requests with improvements or additional features.
-
-## License
-This project is licensed under the MIT License.
 
 
