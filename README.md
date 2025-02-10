@@ -10,9 +10,6 @@ This project is a basic blockchain simulation that demonstrates the core princip
 - Proof-of-work mechanism for mining blocks.
 - Blockchain integrity validation to detect tampering.
 
-## Prerequisites
-Ensure you have Python installed on your system. You can download it from [Python.org](https://www.python.org/downloads/).
-
 ## Setup
 1. Clone this repository:
    ```sh
