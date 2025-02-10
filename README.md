@@ -16,11 +16,11 @@ Ensure you have Python installed on your system. You can download it from [Pytho
 ## Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/simple-blockchain.git
+   git clone https://github.com/ananyap05/quadb-task.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd simple-blockchain
+   cd quadb-task
    ```
 3. Install dependencies (if any, but none required for basic functionality):
    ```sh
